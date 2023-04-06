@@ -12,3 +12,6 @@ Wind Speeds
 The dashboard also has a search history of previous cities that were typed in.
 
 ![Alt text](assets/Web%20capture_6-4-2023_14955_.jpeg)
+
+Link to webpage:
+https://dcamm88.github.io/Weather-Dashboard/#
