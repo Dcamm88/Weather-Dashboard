@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    background-color:black;
+    color:white;
+    width:100%;
+    padding:15px;
+  }
+
+  body {
+    background-color: rgb(9, 147, 171);
+  }
+  .input-group {
+    margin-bottom: 15px;
+  }
+  .header-style {
+    font-size: 40px;
+    color: #ffffff;
+    text-align: center;
+  }
+  .card {
+    width:100%;
+  }
+  .fiveDay{    
+    background-color: rgb(22, 47, 230);
+    margin: 15px;
+  }
+  h3 {
+    float:left;
+  }
